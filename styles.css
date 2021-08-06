@@ -36,8 +36,8 @@ body {
   overflow: hidden;
 }
 .ball {
-  width: 25%;
-  height: 50%;
+  width: 30%;
+  height: 60%;
   background: #000;
   position: absolute;
   top: 50%;
